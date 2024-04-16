@@ -1,5 +1,5 @@
 # Tower-Defense
-A Tower Defense game writing with allegro 5
+A tower defense game developed using C++ and the Allegro 5 library, showcasing object-oriented programming principles and efficient game mechanics.
 
 ## Demo video
 
