@@ -5,4 +5,9 @@ A Tower Defense game writing with allegro 5
 
 Here's a video demonstration of my project:
 
-[![video](./img.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ZocO95Nd9gw))
+### Part1
+![video 1](./GIF/1.gif)
+### Part2
+![video 2](./GIF/2.gif)
+### Part3
+![video 3](./GIF/3.gif)
