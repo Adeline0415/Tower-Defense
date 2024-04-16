@@ -6,8 +6,10 @@ A tower defense game developed using C++ and the Allegro 5 library, showcasing o
 Here's a video demonstration of my project:
 
 ### Part1
-![video 1](./GIF/1.gif)
+<img src="./GIF/1.gif" alt="示例 GIF" width="450" height="262">
+
 ### Part2
-![video 2](./GIF/2.gif)
+<img src="./GIF/2.gif" alt="示例 GIF" width="450" height="262">
+
 ### Part3
-![video 3](./GIF/3.gif)
+<img src="./GIF/3.gif" alt="示例 GIF" width="450" height="262">
